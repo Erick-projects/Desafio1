@@ -6,7 +6,7 @@ Console.WindowHeight = 40;
             Console.Write("\nDesafio1");
             int opcion;
             Double radio, v, r, h, b, g, a, respuesta;
-            Console.WriteLine("\t<< C A L C U L A D O R A >>");
+            Console.WriteLine("\t<< C A L C U L A R >>");
             Console.WriteLine("\t<< El Area y Superficie De La Figuras Geometricas>>");
             Console.WriteLine("\t\t1. ESFERA ");
             Console.WriteLine("\t\t2. PIRAMIDE ");

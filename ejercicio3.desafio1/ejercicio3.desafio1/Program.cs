@@ -10,8 +10,8 @@ namespace ejercicio3.desafio1
     {
         static void Main(string[] args)
         {
-            Console.WindowHeight = 25;
-            Console.WindowWidth = 50;
+            Console.WindowHeight = 50;
+            Console.WindowWidth = 70;
             Console.ForegroundColor = ConsoleColor.Black;
             Console.BackgroundColor = ConsoleColor.Gray;
             Console.Clear();

@@ -10,6 +10,13 @@ namespace ejercicio3.desafio1
     {
         static void Main(string[] args)
         {
+            Console.WindowHeight = 25;
+            Console.WindowWidth = 50;
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.Gray;
+            Console.Clear();
+            Console.Title = "Determinar el resultado de la compuerta logica NAND y de una XOR";
+            
             string entrada1nand, entrada2nand, entrada1xor, entrada2xor;
 
             Console.WriteLine("Ingrese el valor de la primera entrada de la compuerta NAND: ");

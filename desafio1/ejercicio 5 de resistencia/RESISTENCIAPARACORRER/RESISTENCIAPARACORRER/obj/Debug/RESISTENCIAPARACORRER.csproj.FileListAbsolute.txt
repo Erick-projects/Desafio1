@@ -1,0 +1,7 @@
+C:\Users\ruth0\OneDrive\Escritorio\ejercicios de LABPROGRA\ejercicio 5 de resistencia\RESISTENCIAPARACORRER\RESISTENCIAPARACORRER\bin\Debug\RESISTENCIAPARACORRER.exe.config
+C:\Users\ruth0\OneDrive\Escritorio\ejercicios de LABPROGRA\ejercicio 5 de resistencia\RESISTENCIAPARACORRER\RESISTENCIAPARACORRER\bin\Debug\RESISTENCIAPARACORRER.exe
+C:\Users\ruth0\OneDrive\Escritorio\ejercicios de LABPROGRA\ejercicio 5 de resistencia\RESISTENCIAPARACORRER\RESISTENCIAPARACORRER\bin\Debug\RESISTENCIAPARACORRER.pdb
+C:\Users\ruth0\OneDrive\Escritorio\ejercicios de LABPROGRA\ejercicio 5 de resistencia\RESISTENCIAPARACORRER\RESISTENCIAPARACORRER\obj\Debug\RESISTENCIAPARACORRER.csprojAssemblyReference.cache
+C:\Users\ruth0\OneDrive\Escritorio\ejercicios de LABPROGRA\ejercicio 5 de resistencia\RESISTENCIAPARACORRER\RESISTENCIAPARACORRER\obj\Debug\RESISTENCIAPARACORRER.csproj.CoreCompileInputs.cache
+C:\Users\ruth0\OneDrive\Escritorio\ejercicios de LABPROGRA\ejercicio 5 de resistencia\RESISTENCIAPARACORRER\RESISTENCIAPARACORRER\obj\Debug\RESISTENCIAPARACORRER.exe
+C:\Users\ruth0\OneDrive\Escritorio\ejercicios de LABPROGRA\ejercicio 5 de resistencia\RESISTENCIAPARACORRER\RESISTENCIAPARACORRER\obj\Debug\RESISTENCIAPARACORRER.pdb

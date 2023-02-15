@@ -1,0 +1,8 @@
+E:\DESAFIO 1\ejercicio 2\ejercicio 2\bin\Debug\ejercicio 2.exe.config
+E:\DESAFIO 1\ejercicio 2\ejercicio 2\bin\Debug\ejercicio 2.exe
+E:\DESAFIO 1\ejercicio 2\ejercicio 2\bin\Debug\ejercicio 2.pdb
+E:\DESAFIO 1\ejercicio 2\ejercicio 2\obj\Debug\ejercicio 2.csproj.AssemblyReference.cache
+E:\DESAFIO 1\ejercicio 2\ejercicio 2\obj\Debug\ejercicio 2.csproj.SuggestedBindingRedirects.cache
+E:\DESAFIO 1\ejercicio 2\ejercicio 2\obj\Debug\ejercicio 2.csproj.CoreCompileInputs.cache
+E:\DESAFIO 1\ejercicio 2\ejercicio 2\obj\Debug\ejercicio 2.exe
+E:\DESAFIO 1\ejercicio 2\ejercicio 2\obj\Debug\ejercicio 2.pdb

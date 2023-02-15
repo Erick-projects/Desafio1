@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Documentos\Don Bosco\Algoritmos Lab\Desafìo pràctico\Desafìo\Desafìo\obj\Debug\Desafìo.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Don Bosco\Algoritmos Lab\Desafìo pràctico\Desafìo\Desafìo\obj\Debug\Desafìo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Don Bosco\Algoritmos Lab\Desafìo pràctico\Desafìo\Desafìo\bin\Debug\Desafìo.exe.config
+C:\Users\gabri\OneDrive\Documentos\Don Bosco\Algoritmos Lab\Desafìo pràctico\Desafìo\Desafìo\bin\Debug\Desafìo.exe
+C:\Users\gabri\OneDrive\Documentos\Don Bosco\Algoritmos Lab\Desafìo pràctico\Desafìo\Desafìo\bin\Debug\Desafìo.pdb
+C:\Users\gabri\OneDrive\Documentos\Don Bosco\Algoritmos Lab\Desafìo pràctico\Desafìo\Desafìo\obj\Debug\Desafìo.exe
+C:\Users\gabri\OneDrive\Documentos\Don Bosco\Algoritmos Lab\Desafìo pràctico\Desafìo\Desafìo\obj\Debug\Desafìo.pdb
+C:\Users\gabri\OneDrive\Documentos\Don Bosco\Algoritmos Lab\Desafio practico, ejercicio 4\Desafìo\Desafìo\bin\Debug\Desafìo.exe.config
+C:\Users\gabri\OneDrive\Documentos\Don Bosco\Algoritmos Lab\Desafio practico, ejercicio 4\Desafìo\Desafìo\bin\Debug\Desafìo.exe
+C:\Users\gabri\OneDrive\Documentos\Don Bosco\Algoritmos Lab\Desafio practico, ejercicio 4\Desafìo\Desafìo\bin\Debug\Desafìo.pdb
+C:\Users\gabri\OneDrive\Documentos\Don Bosco\Algoritmos Lab\Desafio practico, ejercicio 4\Desafìo\Desafìo\obj\Debug\Desafìo.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Don Bosco\Algoritmos Lab\Desafio practico, ejercicio 4\Desafìo\Desafìo\obj\Debug\Desafìo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Don Bosco\Algoritmos Lab\Desafio practico, ejercicio 4\Desafìo\Desafìo\obj\Debug\Desafìo.exe
+C:\Users\gabri\OneDrive\Documentos\Don Bosco\Algoritmos Lab\Desafio practico, ejercicio 4\Desafìo\Desafìo\obj\Debug\Desafìo.pdb
